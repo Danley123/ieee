@@ -1,1 +1,1 @@
-# the quick brown fox jumped over the lazy bear
+# the quick brown fox jumps over the lazy dog
